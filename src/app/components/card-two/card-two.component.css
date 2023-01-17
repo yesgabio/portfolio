@@ -1,0 +1,22 @@
+.two-content{
+  background-image: url("https://i.pinimg.com/564x/86/eb/92/86eb92548de84d0c6b077ce3f8270825.jpg");
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  height: 430px;
+}
+
+.two-title{
+  margin-left: 60px;
+  margin-right: 20px;
+}
+.two-title > h1{
+  font-size: 48px;
+  text-align: right;
+}
+
+.two-button{
+  margin-left: 75%;
+  margin-top: 50%;
+}

@@ -1,0 +1,16 @@
+.three-content{
+  background-image: url("https://i.pinimg.com/236x/2e/53/e0/2e53e05694454d48c38698377bf45201.jpg");
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  height: 430px;
+}
+.three-text{
+  margin: 20px;
+}
+
+.three-text > p{
+font-size: 16px;
+text-align: right;
+}

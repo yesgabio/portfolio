@@ -1,0 +1,46 @@
+.four-content{
+  background-color: #eb4022;
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  height: 430px;
+}
+
+img{
+  width: 60%;
+  margin-bottom: 10px;
+}
+.photos-estudio{
+  position: absolute;
+  width: 400px;
+  margin-top: 30px;
+  margin-left: 20px;
+}
+
+.photos-blog{
+  position: absolute;
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: center;
+  margin-top: 10px;
+}
+
+.four-text{
+ display: flex;
+ flex-direction: row;
+ justify-content: flex-end;
+ width: max-content;
+}
+
+.four-text > .text {
+  font-size: 52px;
+  writing-mode: vertical-lr;
+}
+.four-text > .one {
+  margin-left: 450px;
+}
+.four-text > .two {
+  margin-left: -88px;
+}
