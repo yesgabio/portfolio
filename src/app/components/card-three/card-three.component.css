@@ -14,3 +14,9 @@
 font-size: 16px;
 text-align: right;
 }
+
+.three-button{
+  position: absolute;
+  margin-top: 220px;
+  margin-left: 380px;
+}

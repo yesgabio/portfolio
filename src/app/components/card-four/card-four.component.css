@@ -28,10 +28,10 @@ img{
 }
 
 .four-text{
- display: flex;
- flex-direction: row;
- justify-content: flex-end;
- width: max-content;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  width: max-content;
 }
 
 .four-text > .text {
@@ -43,4 +43,10 @@ img{
 }
 .four-text > .two {
   margin-left: -88px;
+}
+
+.four-button{
+  position: absolute;
+  margin-top: 350px;
+  margin-left: 280px;
 }
