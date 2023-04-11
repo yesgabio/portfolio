@@ -7,6 +7,9 @@ import { CardOneComponent } from './components/card-one/card-one.component';
 import { CardTwoComponent } from './components/card-two/card-two.component';
 import { CardThreeComponent } from './components/card-three/card-three.component';
 import { CardFourComponent } from './components/card-four/card-four.component';
+import { HomeComponent } from './pages/home/home.component';
+import { ContentComponent } from './pages/content/content.component';
+import { PersonalComponent } from './pages/personal/personal.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +17,10 @@ import { CardFourComponent } from './components/card-four/card-four.component';
     CardOneComponent,
     CardTwoComponent,
     CardThreeComponent,
-    CardFourComponent
+    CardFourComponent,
+    HomeComponent,
+    ContentComponent,
+    PersonalComponent
   ],
   imports: [
     BrowserModule,
